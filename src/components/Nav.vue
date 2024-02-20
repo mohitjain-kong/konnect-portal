@@ -90,7 +90,7 @@ export default defineComponent({
 
 #site-header {
   height: var(--headerHeight);
-  background-color: var(--section_colors-header);
+  background-color: #FFFFFF;
   border-bottom: 1px solid var(--section_colors-stroke);
 
   .links a {
